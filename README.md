@@ -9,3 +9,11 @@ olá! Sou um Estudate de desenvolvimento de Software do Senai.
 - Animes
 - Futebol
 - Tecnologi
+
+## Tecnologias 
+
+ |tecnologias | Nivél | 
+ |--------------------|
+ | HTML | Iniciante|
+ |JavaScript| Iniciante|
+ |Python| Iniciante
