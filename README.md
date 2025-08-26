@@ -1,6 +1,6 @@
 ## perfil de Emmanuel
 
-olá! Sou um Estudate de desenvolvimento de Software do Senai.
+olá! Sou um de desenvolvimento de Software do Senai.
 
 **Localização** Fortaleza, Ceará
 
