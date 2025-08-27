@@ -1,6 +1,6 @@
 ## perfil de Emmanuel
 
-olá! Sou um Estudate de desenvolvimento de Software do Senai.
+olá! Sou um de desenvolvimento de Software do Senai.
 
 **Localização** Fortaleza, Ceará
 
@@ -9,3 +9,11 @@ olá! Sou um Estudate de desenvolvimento de Software do Senai.
 - Animes
 - Futebol
 - Tecnologi
+
+## Tecnologias 
+
+ |tecnologias | Nivél | 
+ |--------------------|
+ | HTML | Iniciante|
+ |JavaScript| Iniciante|
+ |Python| Iniciante
